@@ -1,0 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+p {
+  font-family: 'Big Shoulders Inline Display', cursive;
+font-family: 'Turret Road', cursive;
+}
